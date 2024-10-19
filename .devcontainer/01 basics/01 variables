@@ -1,0 +1,10 @@
+const accId = "1245"
+let accEmail = " github.com"
+var accPass = " 6789"
+accCity = "gorakhpur"
+
+accEmail="adnan.com"
+accPas= "7860"
+accCity="dharwad"
+
+console.table([accEmail,accPass,accCity,accId])
